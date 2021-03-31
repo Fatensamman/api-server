@@ -18,9 +18,7 @@ app.use('/api/v1/clothes/', clothesRouter);
 app.get('/bad', (req, res) => {
   throw new Error('something wrong!!');
 });
-// app.get('/hhh', (req, res) => {
-//   res.status(404).send('not found')
-// });
+
 app.use('*', notFoundHndler);
 app.use(errorHandler);
 
