@@ -1,26 +1,26 @@
 # Lab 2-401 course api-server
 
 ## links:
-- [heroku link](https://course-basic-api-faten.herokuapp.com/)
+- [heroku link](https:/server-api-2.herokuapp.com/)
 
-- [Github actions link](https://github.com/Fatensamman/basic-api-server/actions)
+- [Github actions link](https://github.com/Fatensamman/api-server/actions)
 
-- [pull request link](https://github.com/Fatensamman/basic-api-server/pull/1)
+- [pull request link](https:/github.com/Fatensamman/api-server/pull/1)
 
 ## End Points
 #### clothes api
--  create clothes data route on post *https://course-basic-api-faten.herokuapp.com/api/v1/clothes/*
--  update clothes data route on put *https://course-basic-api-faten.herokuapp.com/api/v1/clothes/<id>*
--  saved clothes data route on get *https://course-basic-api-faten.herokuapp.com/api/v1/clothes/*
--  one recorded clothes data route on get *https://course-basic-api-faten.herokuapp.com/api/v1/clothes/<id>*
--  delete one recorded clothes data route on delete *https://course-basic-api-faten.herokuapp.com/api/v1/clothes/<id>*
+-  create clothes data route on post *https://server-api-2.herokuapp.com/api/v1/clothes/*
+-  update clothes data route on put *https://server-api-2.herokuapp.com/api/v1/clothes/<id>*
+-  saved clothes data route on get *https://server-api-2.herokuapp.com/api/v1/clothes/*
+-  one recorded clothes data route on get *https://server-api-2.herokuapp.com/api/v1/clothes/<id>*
+-  delete one recorded clothes data route on delete *https://server-api-2.herokuapp.com/api/v1/clothes/<id>*
 
 #### food api
-- create food data route on post *https://course-basic-api-faten.herokuapp.com/api/v1/food/*
--  update food data route on put *https://course-basic-api-faten.herokuapp.com/api/v1/food/<id>*
--  saved food data route on get *https://course-basic-api-faten.herokuapp.com/api/v1/food/*
--  one recorded food data route on get *https://course-basic-api-faten.herokuapp.com/api/v1/food/<id>*
--  delete one recorded food data route on delete *https://course-basic-api-faten.herokuapp.com/api/v1/food/<id>*
+- create food data route on post *https://server-api-2.herokuapp.com/api/v1/food/*
+-  update food data route on put *https://server-api-2.herokuapp.com/api/v1/food/<id>*
+-  saved food data route on get *https://server-api-2.herokuapp.com/api/v1/food/*
+-  one recorded food data route on get *https://server-api-2.herokuapp.com/api/v1/food/<id>*
+-  delete one recorded food data route on delete *https://server-api-2.herokuapp.com/api/v1/food/<id>*
 
 
 ## setup  environment
