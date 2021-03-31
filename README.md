@@ -1,4 +1,4 @@
-# Lab 2-401 course api-server
+# Lab 4-401 course api-server
 
 ## links:
 - [heroku link](https:/server-api-2.herokuapp.com/)
